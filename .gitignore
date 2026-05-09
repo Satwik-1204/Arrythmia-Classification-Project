@@ -1,0 +1,15 @@
+# Ignore virtual environments
+.venv/
+gpu_env/
+env/
+
+# Ignore dataset files (users should download these from Kaggle)
+mitbih_train.csv
+mitbih_test.csv
+
+# Ignore saved models (optional, but good if they are huge)
+# best_ecg_model.pth
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/

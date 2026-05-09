@@ -31,7 +31,7 @@ The hybrid model processes 1D medical time-series data by combining spatial feat
 
 ```bash
 # 1. Clone repository
-git clone [https://github.com/YOUR-USERNAME/ECG-Arrhythmia-Classification.git](https://github.com/YOUR-USERNAME/ECG-Arrhythmia-Classification.git)
+git clone https://github.com/Satwik-1204/Arrythmia-Classification-Project.git
 cd ECG-Arrhythmia-Classification
 
 # 2. Install core dependencies

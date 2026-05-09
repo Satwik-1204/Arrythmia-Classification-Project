@@ -32,7 +32,7 @@ The hybrid model processes 1D medical time-series data by combining spatial feat
 ```bash
 # 1. Clone repository
 git clone https://github.com/Satwik-1204/Arrythmia-Classification-Project.git
-cd ECG-Arrhythmia-Classification
+cd Arrhythmia_Classification_Project
 
 # 2. Install core dependencies
 pip install torch pandas numpy scikit-learn matplotlib seaborn tqdm
